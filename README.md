@@ -12,8 +12,6 @@ Data Scientist | Data Analyst| Statistician
 ![Rcode](https://img.shields.io/badge/.-SQL-red?logo=SQL&logoColor=red)
 
 
-[![project Badge](https://img.shields.io/badge/-Project_link-0e76a8?style=flat&labelColor=orange)](https://drive.google.com/file/d/1hfs1ARKRfPXF0izKAoMRJEjDrkXKl28F/view?usp=sharing)
-
 
 
 ### Education
