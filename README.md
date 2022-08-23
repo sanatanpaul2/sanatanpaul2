@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋 I am Sanatan Paul
+Data Scientist | Data Analyst| Statistician
+![](https://images.unsplash.com/photo-1595348559416-10b3012699bf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHBhbm9yYW1pY3xlbnwwfHwwfHw%3D&w=1000&q=80)
 
-<!--
-**sanatanpaul2/sanatanpaul2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Social
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanatan20/)
+[![facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/sanatan.paul.7796)
 
-Here are some ideas to get you started:
+### Programing Skills
+![Rcode](https://img.shields.io/badge/.-RStudio-blue?logo=RStudio&logoColor=white)
+![Rcode](https://img.shields.io/badge/.-Python-orange?logo=Python&logoColor=Orange)
+![Rcode](https://img.shields.io/badge/.-SQL-red?logo=SQL&logoColor=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![project Badge](https://img.shields.io/badge/-Project_link-0e76a8?style=flat&labelColor=orange)](https://drive.google.com/file/d/1hfs1ARKRfPXF0izKAoMRJEjDrkXKl28F/view?usp=sharing)
+
+
+
+### Education
+#### Post-Graduate Diploma in Statistical Methods and Analytics
+Indian Statistical Institute | 2021 - 2022 | 60.1 
+
+#### Post Graduation in Statistics 
+Aliah University | 2018 - 2020 | 7.21 CGPA
+
+#### Graduation in Statistics
+Midnapore College (Autonomous) | 2015 – 2018 | 66.75 percent
+
+
+
+
